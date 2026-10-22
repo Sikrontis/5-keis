@@ -24,7 +24,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ulkenz/travel-app-case5.git
+   git clone https://github.com/Sikrontis/travel-app-case5.git
     ```
 2. Установите зависимости
 
